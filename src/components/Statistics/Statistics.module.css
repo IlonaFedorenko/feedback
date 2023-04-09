@@ -1,0 +1,30 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 18px;
+    color: #4a4a4a;
+    text-transform: uppercase;
+    padding: 0px;
+    
+}
+
+.total {
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 18px;
+    color: #4a4a4a;
+    text-transform: uppercase;
+}
+
+.feedback {
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 18px;
+    color: #4a4a4a;
+    text-transform: uppercase;
+}
