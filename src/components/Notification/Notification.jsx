@@ -10,7 +10,6 @@ export const Notification = ({ title }) => {
 };
 
 Notification.propTypes = {
-  title: PropTypes.string,
+  title: PropTypes.string.isRequired,
 };
 
-export default Notification;
