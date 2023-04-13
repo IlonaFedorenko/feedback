@@ -17,6 +17,7 @@ export function App() {
         break;
       case 'neutral':
         setNeutral(neutral + 1);
+        break;
       case 'bad':
         setBad(bad + 1);
         break;
@@ -58,5 +59,3 @@ export function App() {
     </>
   );
 }
-
-
